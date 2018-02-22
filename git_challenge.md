@@ -1,4 +1,5 @@
-#person 1 adding this line | person 2 change the first line
+#person 1 adding this line | person 2 change the first line | person 2 
+change the first lain (again)
 #person 1 adding this line (also)
 #person 1 adding this line (for sure)
 #this last line added by person 1
